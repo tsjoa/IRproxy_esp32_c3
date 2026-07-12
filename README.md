@@ -109,7 +109,7 @@ logger:
 
 api:
   encryption:
-    key: "yxMqNY/Wlr52O8Sl6wHy9RV7V8iN/S8IrPgFqEMyleE="
+    key: "randomkey"
 
 ota:
   - platform: esphome
